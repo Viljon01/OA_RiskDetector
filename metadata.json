@@ -1,0 +1,6 @@
+{
+  "name": "OsteoScreen",
+  "description": "Offline-first screening application tailored for low-resource environments across the North Eastern Region.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
